@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+web/node_modules/
+web/dist/
+.firebase/
+web/*.tsbuildinfo
+web/vite.config.js
+web/vite.config.d.ts
+web/public/data/stamp.json
