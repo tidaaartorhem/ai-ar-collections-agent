@@ -1,0 +1,2552 @@
+[
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17450",
+    "disputed": 0,
+    "oldest_overdue": 73,
+    "open_invoices": 7,
+    "open_total": 70758.12,
+    "segments": {
+      "CALL": 3,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 2
+    },
+    "worst_score": 33
+  },
+  {
+    "broken_promises": 3,
+    "country": "Netherlands",
+    "cust": "14646",
+    "disputed": 0,
+    "oldest_overdue": 81,
+    "open_invoices": 9,
+    "open_total": 45822.54,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 6,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 21
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "18102",
+    "disputed": 0,
+    "oldest_overdue": 57,
+    "open_invoices": 7,
+    "open_total": 34641.19,
+    "segments": {
+      "CALL": 3,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 3,
+      "PROMISE": 1
+    },
+    "worst_score": 40
+  },
+  {
+    "broken_promises": 2,
+    "country": "United Kingdom",
+    "cust": "0",
+    "disputed": 1,
+    "oldest_overdue": 82,
+    "open_invoices": 25,
+    "open_total": 30963.45,
+    "segments": {
+      "CALL": 10,
+      "ESCALATE": 3,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 10,
+      "PROMISE": 1
+    },
+    "worst_score": 13
+  },
+  {
+    "broken_promises": 0,
+    "country": "Australia",
+    "cust": "12415",
+    "disputed": 1,
+    "oldest_overdue": 72,
+    "open_invoices": 1,
+    "open_total": 21880.44,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 11
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17511",
+    "disputed": 2,
+    "oldest_overdue": 73,
+    "open_invoices": 4,
+    "open_total": 13396.69,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 2,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 0
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14096",
+    "disputed": 0,
+    "oldest_overdue": 60,
+    "open_invoices": 5,
+    "open_total": 12179.51,
+    "segments": {
+      "CALL": 3,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 42
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "12931",
+    "disputed": 0,
+    "oldest_overdue": 79,
+    "open_invoices": 1,
+    "open_total": 9349.72,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 9
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16029",
+    "disputed": 0,
+    "oldest_overdue": 85,
+    "open_invoices": 2,
+    "open_total": 8110.56,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 57
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17857",
+    "disputed": 0,
+    "oldest_overdue": 68,
+    "open_invoices": 3,
+    "open_total": 8100.88,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 28
+  },
+  {
+    "broken_promises": 2,
+    "country": "United Kingdom",
+    "cust": "13089",
+    "disputed": 0,
+    "oldest_overdue": 88,
+    "open_invoices": 12,
+    "open_total": 7817.19,
+    "segments": {
+      "CALL": 5,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 5,
+      "PROMISE": 0
+    },
+    "worst_score": 24
+  },
+  {
+    "broken_promises": 0,
+    "country": "EIRE",
+    "cust": "14156",
+    "disputed": 1,
+    "oldest_overdue": 75,
+    "open_invoices": 3,
+    "open_total": 6754.35,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 2
+    },
+    "worst_score": 56
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13881",
+    "disputed": 0,
+    "oldest_overdue": 66,
+    "open_invoices": 6,
+    "open_total": 6630.94,
+    "segments": {
+      "CALL": 3,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 2
+    },
+    "worst_score": 42
+  },
+  {
+    "broken_promises": 1,
+    "country": "EIRE",
+    "cust": "14911",
+    "disputed": 0,
+    "oldest_overdue": 72,
+    "open_invoices": 7,
+    "open_total": 6357.71,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 3,
+      "PROMISE": 0
+    },
+    "worst_score": 32
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16333",
+    "disputed": 0,
+    "oldest_overdue": 82,
+    "open_invoices": 2,
+    "open_total": 5015.0,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 43
+  },
+  {
+    "broken_promises": 0,
+    "country": "Israel",
+    "cust": "12688",
+    "disputed": 0,
+    "oldest_overdue": 72,
+    "open_invoices": 1,
+    "open_total": 4873.81,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 32
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17428",
+    "disputed": 0,
+    "oldest_overdue": 44,
+    "open_invoices": 2,
+    "open_total": 4523.48,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 49
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16984",
+    "disputed": 0,
+    "oldest_overdue": 89,
+    "open_invoices": 2,
+    "open_total": 4481.35,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 22
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16684",
+    "disputed": 0,
+    "oldest_overdue": 24,
+    "open_invoices": 2,
+    "open_total": 4287.4,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 86
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "14952",
+    "disputed": 0,
+    "oldest_overdue": 47,
+    "open_invoices": 3,
+    "open_total": 4140.08,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 50
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "17841",
+    "disputed": 0,
+    "oldest_overdue": 79,
+    "open_invoices": 10,
+    "open_total": 3937.39,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 5,
+      "PROMISE": 1
+    },
+    "worst_score": 30
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16013",
+    "disputed": 0,
+    "oldest_overdue": 78,
+    "open_invoices": 4,
+    "open_total": 3684.08,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 38
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "16422",
+    "disputed": 0,
+    "oldest_overdue": 87,
+    "open_invoices": 4,
+    "open_total": 3581.26,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 13
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "17509",
+    "disputed": 1,
+    "oldest_overdue": 22,
+    "open_invoices": 5,
+    "open_total": 3420.72,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 2,
+      "PROMISE": 1
+    },
+    "worst_score": 50
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15838",
+    "disputed": 0,
+    "oldest_overdue": 36,
+    "open_invoices": 1,
+    "open_total": 3187.12,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 55
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14607",
+    "disputed": 1,
+    "oldest_overdue": 5,
+    "open_invoices": 2,
+    "open_total": 2964.24,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15311",
+    "disputed": 0,
+    "oldest_overdue": 38,
+    "open_invoices": 5,
+    "open_total": 2666.17,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 3,
+      "PROMISE": 1
+    },
+    "worst_score": 55
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14422",
+    "disputed": 0,
+    "oldest_overdue": 29,
+    "open_invoices": 2,
+    "open_total": 2518.93,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 2,
+      "PROMISE": 0
+    },
+    "worst_score": 79
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17381",
+    "disputed": 0,
+    "oldest_overdue": 58,
+    "open_invoices": 4,
+    "open_total": 2496.36,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 2,
+      "PROMISE": 1
+    },
+    "worst_score": 58
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15061",
+    "disputed": 0,
+    "oldest_overdue": 86,
+    "open_invoices": 3,
+    "open_total": 2435.98,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 37
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "13139",
+    "disputed": 0,
+    "oldest_overdue": 68,
+    "open_invoices": 2,
+    "open_total": 2414.54,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 44
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13851",
+    "disputed": 1,
+    "oldest_overdue": 87,
+    "open_invoices": 2,
+    "open_total": 2405.14,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 10
+  },
+  {
+    "broken_promises": 1,
+    "country": "France",
+    "cust": "12731",
+    "disputed": 0,
+    "oldest_overdue": 44,
+    "open_invoices": 1,
+    "open_total": 2377.9,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 42
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "12939",
+    "disputed": 0,
+    "oldest_overdue": 38,
+    "open_invoices": 2,
+    "open_total": 2357.88,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 52
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14004",
+    "disputed": 1,
+    "oldest_overdue": 86,
+    "open_invoices": 4,
+    "open_total": 2336.38,
+    "segments": {
+      "CALL": 3,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 49
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16180",
+    "disputed": 0,
+    "oldest_overdue": 86,
+    "open_invoices": 1,
+    "open_total": 2317.0,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 26
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17677",
+    "disputed": 0,
+    "oldest_overdue": 59,
+    "open_invoices": 2,
+    "open_total": 2281.82,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 57
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15113",
+    "disputed": 0,
+    "oldest_overdue": 13,
+    "open_invoices": 1,
+    "open_total": 2242.69,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 87
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17107",
+    "disputed": 1,
+    "oldest_overdue": 34,
+    "open_invoices": 1,
+    "open_total": 2182.71,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 16
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13098",
+    "disputed": 0,
+    "oldest_overdue": 46,
+    "open_invoices": 1,
+    "open_total": 2180.3,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 59
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16133",
+    "disputed": 0,
+    "oldest_overdue": 80,
+    "open_invoices": 4,
+    "open_total": 2179.67,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 3
+    },
+    "worst_score": 36
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14680",
+    "disputed": 1,
+    "oldest_overdue": 30,
+    "open_invoices": 1,
+    "open_total": 2163.95,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 44
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "17865",
+    "disputed": 1,
+    "oldest_overdue": 73,
+    "open_invoices": 5,
+    "open_total": 2158.58,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 17
+  },
+  {
+    "broken_promises": 1,
+    "country": "Germany",
+    "cust": "12709",
+    "disputed": 0,
+    "oldest_overdue": 55,
+    "open_invoices": 3,
+    "open_total": 2119.63,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 36
+  },
+  {
+    "broken_promises": 0,
+    "country": "Germany",
+    "cust": "12627",
+    "disputed": 0,
+    "oldest_overdue": 67,
+    "open_invoices": 3,
+    "open_total": 2074.98,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 25
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14194",
+    "disputed": 0,
+    "oldest_overdue": 65,
+    "open_invoices": 3,
+    "open_total": 1988.1,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 2,
+      "PROMISE": 1
+    },
+    "worst_score": 53
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13199",
+    "disputed": 0,
+    "oldest_overdue": 23,
+    "open_invoices": 2,
+    "open_total": 1986.12,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 2,
+      "PROMISE": 0
+    },
+    "worst_score": 73
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16253",
+    "disputed": 0,
+    "oldest_overdue": 25,
+    "open_invoices": 1,
+    "open_total": 1983.46,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 100
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15078",
+    "disputed": 0,
+    "oldest_overdue": 81,
+    "open_invoices": 5,
+    "open_total": 1965.1,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 3,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 29
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "13969",
+    "disputed": 0,
+    "oldest_overdue": 86,
+    "open_invoices": 3,
+    "open_total": 1907.22,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 17
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "12749",
+    "disputed": 0,
+    "oldest_overdue": 89,
+    "open_invoices": 2,
+    "open_total": 1896.13,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 49
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13798",
+    "disputed": 0,
+    "oldest_overdue": 66,
+    "open_invoices": 3,
+    "open_total": 1880.62,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 53
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16240",
+    "disputed": 0,
+    "oldest_overdue": 36,
+    "open_invoices": 1,
+    "open_total": 1824.79,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 60
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "15856",
+    "disputed": 0,
+    "oldest_overdue": 62,
+    "open_invoices": 4,
+    "open_total": 1822.21,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 31
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "13408",
+    "disputed": 0,
+    "oldest_overdue": 87,
+    "open_invoices": 3,
+    "open_total": 1821.28,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 44
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "15498",
+    "disputed": 0,
+    "oldest_overdue": 43,
+    "open_invoices": 2,
+    "open_total": 1819.17,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 48
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16182",
+    "disputed": 0,
+    "oldest_overdue": 31,
+    "open_invoices": 1,
+    "open_total": 1773.65,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 1,
+    "country": "Portugal",
+    "cust": "12757",
+    "disputed": 0,
+    "oldest_overdue": 23,
+    "open_invoices": 2,
+    "open_total": 1728.62,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 62
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13555",
+    "disputed": 0,
+    "oldest_overdue": 32,
+    "open_invoices": 1,
+    "open_total": 1693.7,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15089",
+    "disputed": 0,
+    "oldest_overdue": 87,
+    "open_invoices": 2,
+    "open_total": 1677.23,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 40
+  },
+  {
+    "broken_promises": 0,
+    "country": "Germany",
+    "cust": "12471",
+    "disputed": 0,
+    "oldest_overdue": 68,
+    "open_invoices": 2,
+    "open_total": 1657.24,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 35
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "14667",
+    "disputed": 0,
+    "oldest_overdue": 53,
+    "open_invoices": 2,
+    "open_total": 1652.09,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 44
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13694",
+    "disputed": 0,
+    "oldest_overdue": 44,
+    "open_invoices": 1,
+    "open_total": 1642.18,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 66
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15980",
+    "disputed": 1,
+    "oldest_overdue": 47,
+    "open_invoices": 2,
+    "open_total": 1638.68,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 20
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15484",
+    "disputed": 0,
+    "oldest_overdue": 37,
+    "open_invoices": 1,
+    "open_total": 1636.52,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 60
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13015",
+    "disputed": 0,
+    "oldest_overdue": 12,
+    "open_invoices": 1,
+    "open_total": 1583.24,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 100
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15764",
+    "disputed": 0,
+    "oldest_overdue": 66,
+    "open_invoices": 2,
+    "open_total": 1582.1,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 29
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17567",
+    "disputed": 0,
+    "oldest_overdue": 51,
+    "open_invoices": 2,
+    "open_total": 1578.43,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 45
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17924",
+    "disputed": 1,
+    "oldest_overdue": 26,
+    "open_invoices": 1,
+    "open_total": 1574.52,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 35
+  },
+  {
+    "broken_promises": 0,
+    "country": "Norway",
+    "cust": "12433",
+    "disputed": 0,
+    "oldest_overdue": 2,
+    "open_invoices": 1,
+    "open_total": 1498.66,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 89
+  },
+  {
+    "broken_promises": 0,
+    "country": "Belgium",
+    "cust": "12876",
+    "disputed": 0,
+    "oldest_overdue": 16,
+    "open_invoices": 1,
+    "open_total": 1491.59,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 84
+  },
+  {
+    "broken_promises": 0,
+    "country": "France",
+    "cust": "12490",
+    "disputed": 0,
+    "oldest_overdue": 59,
+    "open_invoices": 2,
+    "open_total": 1459.88,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 52
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "18172",
+    "disputed": 0,
+    "oldest_overdue": 86,
+    "open_invoices": 3,
+    "open_total": 1401.0,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 36
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13644",
+    "disputed": 1,
+    "oldest_overdue": 64,
+    "open_invoices": 2,
+    "open_total": 1398.61,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 25
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16033",
+    "disputed": 0,
+    "oldest_overdue": 41,
+    "open_invoices": 2,
+    "open_total": 1322.89,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 58
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16609",
+    "disputed": 0,
+    "oldest_overdue": 46,
+    "open_invoices": 1,
+    "open_total": 1319.78,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 41
+  },
+  {
+    "broken_promises": 0,
+    "country": "Germany",
+    "cust": "12481",
+    "disputed": 0,
+    "oldest_overdue": 24,
+    "open_invoices": 1,
+    "open_total": 1307.76,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 94
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15050",
+    "disputed": 1,
+    "oldest_overdue": 30,
+    "open_invoices": 1,
+    "open_total": 1293.18,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 50
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14360",
+    "disputed": 0,
+    "oldest_overdue": 53,
+    "open_invoices": 2,
+    "open_total": 1292.37,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 60
+  },
+  {
+    "broken_promises": 0,
+    "country": "Germany",
+    "cust": "12477",
+    "disputed": 0,
+    "oldest_overdue": 15,
+    "open_invoices": 1,
+    "open_total": 1288.78,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 60
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "17685",
+    "disputed": 0,
+    "oldest_overdue": 47,
+    "open_invoices": 1,
+    "open_total": 1286.41,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 42
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "17092",
+    "disputed": 1,
+    "oldest_overdue": 85,
+    "open_invoices": 2,
+    "open_total": 1286.28,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 34
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "14164",
+    "disputed": 0,
+    "oldest_overdue": 39,
+    "open_invoices": 1,
+    "open_total": 1273.77,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 35
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "17203",
+    "disputed": 0,
+    "oldest_overdue": 19,
+    "open_invoices": 1,
+    "open_total": 1263.97,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 70
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "15249",
+    "disputed": 0,
+    "oldest_overdue": 86,
+    "open_invoices": 3,
+    "open_total": 1263.63,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 19
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13988",
+    "disputed": 0,
+    "oldest_overdue": 31,
+    "open_invoices": 1,
+    "open_total": 1261.81,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 59
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "14251",
+    "disputed": 0,
+    "oldest_overdue": 16,
+    "open_invoices": 1,
+    "open_total": 1259.46,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 60
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14849",
+    "disputed": 2,
+    "oldest_overdue": 78,
+    "open_invoices": 3,
+    "open_total": 1258.2,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 2,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 12
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14189",
+    "disputed": 0,
+    "oldest_overdue": 72,
+    "open_invoices": 3,
+    "open_total": 1257.89,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 32
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13373",
+    "disputed": 0,
+    "oldest_overdue": 19,
+    "open_invoices": 1,
+    "open_total": 1256.67,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 94
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14285",
+    "disputed": 0,
+    "oldest_overdue": 34,
+    "open_invoices": 1,
+    "open_total": 1247.53,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17706",
+    "disputed": 0,
+    "oldest_overdue": 73,
+    "open_invoices": 2,
+    "open_total": 1233.0,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 49
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "18225",
+    "disputed": 0,
+    "oldest_overdue": 43,
+    "open_invoices": 1,
+    "open_total": 1188.18,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 49
+  },
+  {
+    "broken_promises": 0,
+    "country": "Channel Islands",
+    "cust": "14936",
+    "disputed": 0,
+    "oldest_overdue": 24,
+    "open_invoices": 2,
+    "open_total": 1138.16,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14842",
+    "disputed": 1,
+    "oldest_overdue": 54,
+    "open_invoices": 2,
+    "open_total": 1136.21,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 44
+  },
+  {
+    "broken_promises": 0,
+    "country": "France",
+    "cust": "12683",
+    "disputed": 0,
+    "oldest_overdue": 64,
+    "open_invoices": 1,
+    "open_total": 1130.95,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 27
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "12910",
+    "disputed": 0,
+    "oldest_overdue": 37,
+    "open_invoices": 2,
+    "open_total": 1129.68,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 54
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "17788",
+    "disputed": 0,
+    "oldest_overdue": 88,
+    "open_invoices": 2,
+    "open_total": 1117.9,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 30
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15701",
+    "disputed": 0,
+    "oldest_overdue": 69,
+    "open_invoices": 2,
+    "open_total": 1112.13,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 30
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14211",
+    "disputed": 0,
+    "oldest_overdue": 39,
+    "open_invoices": 3,
+    "open_total": 1111.17,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 2,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15805",
+    "disputed": 1,
+    "oldest_overdue": 4,
+    "open_invoices": 2,
+    "open_total": 1107.91,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 51
+  },
+  {
+    "broken_promises": 0,
+    "country": "Switzerland",
+    "cust": "12457",
+    "disputed": 1,
+    "oldest_overdue": 45,
+    "open_invoices": 3,
+    "open_total": 1099.63,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 49
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15978",
+    "disputed": 0,
+    "oldest_overdue": 36,
+    "open_invoices": 1,
+    "open_total": 1098.78,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 60
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "16701",
+    "disputed": 0,
+    "oldest_overdue": 88,
+    "open_invoices": 2,
+    "open_total": 1096.58,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 14
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14595",
+    "disputed": 0,
+    "oldest_overdue": 15,
+    "open_invoices": 1,
+    "open_total": 1091.29,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 70
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17139",
+    "disputed": 0,
+    "oldest_overdue": 23,
+    "open_invoices": 1,
+    "open_total": 1077.75,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 84
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13196",
+    "disputed": 0,
+    "oldest_overdue": 43,
+    "open_invoices": 1,
+    "open_total": 1074.82,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 79
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15296",
+    "disputed": 0,
+    "oldest_overdue": 9,
+    "open_invoices": 1,
+    "open_total": 1073.37,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 96
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13018",
+    "disputed": 0,
+    "oldest_overdue": 81,
+    "open_invoices": 4,
+    "open_total": 1068.98,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 20
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15674",
+    "disputed": 0,
+    "oldest_overdue": 32,
+    "open_invoices": 1,
+    "open_total": 1066.94,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 54
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15984",
+    "disputed": 0,
+    "oldest_overdue": 69,
+    "open_invoices": 2,
+    "open_total": 1066.68,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 41
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13448",
+    "disputed": 0,
+    "oldest_overdue": 39,
+    "open_invoices": 1,
+    "open_total": 1065.79,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 35
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14040",
+    "disputed": 0,
+    "oldest_overdue": 76,
+    "open_invoices": 2,
+    "open_total": 1063.62,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 1
+    },
+    "worst_score": 40
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17949",
+    "disputed": 0,
+    "oldest_overdue": 57,
+    "open_invoices": 1,
+    "open_total": 1047.12,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 54
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17813",
+    "disputed": 0,
+    "oldest_overdue": 23,
+    "open_invoices": 1,
+    "open_total": 1044.09,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 95
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13418",
+    "disputed": 0,
+    "oldest_overdue": 83,
+    "open_invoices": 3,
+    "open_total": 1035.87,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 3
+    },
+    "worst_score": 47
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14101",
+    "disputed": 0,
+    "oldest_overdue": 32,
+    "open_invoices": 1,
+    "open_total": 1032.4,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 63
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13941",
+    "disputed": 0,
+    "oldest_overdue": 48,
+    "open_invoices": 1,
+    "open_total": 1028.04,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 49
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17675",
+    "disputed": 0,
+    "oldest_overdue": 29,
+    "open_invoices": 1,
+    "open_total": 1025.78,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 91
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17858",
+    "disputed": 0,
+    "oldest_overdue": 78,
+    "open_invoices": 3,
+    "open_total": 1021.6,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 40
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "13918",
+    "disputed": 0,
+    "oldest_overdue": 8,
+    "open_invoices": 1,
+    "open_total": 1014.64,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16686",
+    "disputed": 0,
+    "oldest_overdue": 57,
+    "open_invoices": 2,
+    "open_total": 997.31,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 54
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "12856",
+    "disputed": 0,
+    "oldest_overdue": 22,
+    "open_invoices": 2,
+    "open_total": 997.18,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 70
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13735",
+    "disputed": 0,
+    "oldest_overdue": 2,
+    "open_invoices": 1,
+    "open_total": 991.56,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 79
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17593",
+    "disputed": 0,
+    "oldest_overdue": 50,
+    "open_invoices": 1,
+    "open_total": 985.62,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 59
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "18109",
+    "disputed": 0,
+    "oldest_overdue": 86,
+    "open_invoices": 3,
+    "open_total": 979.52,
+    "segments": {
+      "CALL": 2,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 47
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13895",
+    "disputed": 0,
+    "oldest_overdue": 25,
+    "open_invoices": 1,
+    "open_total": 973.81,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "Germany",
+    "cust": "13814",
+    "disputed": 0,
+    "oldest_overdue": 51,
+    "open_invoices": 1,
+    "open_total": 961.58,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13113",
+    "disputed": 0,
+    "oldest_overdue": 72,
+    "open_invoices": 2,
+    "open_total": 961.3,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 29
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "18192",
+    "disputed": 0,
+    "oldest_overdue": 30,
+    "open_invoices": 1,
+    "open_total": 957.97,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 70
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17244",
+    "disputed": 1,
+    "oldest_overdue": 12,
+    "open_invoices": 1,
+    "open_total": 954.9,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 50
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17735",
+    "disputed": 0,
+    "oldest_overdue": 67,
+    "open_invoices": 1,
+    "open_total": 951.96,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 33
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13224",
+    "disputed": 0,
+    "oldest_overdue": 19,
+    "open_invoices": 1,
+    "open_total": 943.69,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 94
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14739",
+    "disputed": 0,
+    "oldest_overdue": 53,
+    "open_invoices": 1,
+    "open_total": 939.96,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 59
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13994",
+    "disputed": 0,
+    "oldest_overdue": 64,
+    "open_invoices": 2,
+    "open_total": 939.1,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 25
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17571",
+    "disputed": 0,
+    "oldest_overdue": 9,
+    "open_invoices": 1,
+    "open_total": 937.31,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 74
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13269",
+    "disputed": 0,
+    "oldest_overdue": 47,
+    "open_invoices": 3,
+    "open_total": 936.4,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 2,
+      "PROMISE": 0
+    },
+    "worst_score": 50
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13075",
+    "disputed": 0,
+    "oldest_overdue": 88,
+    "open_invoices": 1,
+    "open_total": 919.61,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 40
+  },
+  {
+    "broken_promises": 1,
+    "country": "Belgium",
+    "cust": "12417",
+    "disputed": 0,
+    "oldest_overdue": 86,
+    "open_invoices": 2,
+    "open_total": 918.25,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 2,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 28
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13689",
+    "disputed": 0,
+    "oldest_overdue": 22,
+    "open_invoices": 1,
+    "open_total": 910.0,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 85
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "17416",
+    "disputed": 0,
+    "oldest_overdue": 68,
+    "open_invoices": 1,
+    "open_total": 908.74,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 42
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "16011",
+    "disputed": 1,
+    "oldest_overdue": 78,
+    "open_invoices": 4,
+    "open_total": 896.45,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 1,
+      "NUDGE": 2,
+      "PROMISE": 0
+    },
+    "worst_score": 11
+  },
+  {
+    "broken_promises": 0,
+    "country": "Denmark",
+    "cust": "12394",
+    "disputed": 0,
+    "oldest_overdue": 22,
+    "open_invoices": 1,
+    "open_total": 891.4,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 94
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "15727",
+    "disputed": 0,
+    "oldest_overdue": 66,
+    "open_invoices": 1,
+    "open_total": 887.47,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 33
+  },
+  {
+    "broken_promises": 1,
+    "country": "Norway",
+    "cust": "12444",
+    "disputed": 0,
+    "oldest_overdue": 17,
+    "open_invoices": 1,
+    "open_total": 879.01,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 55
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13157",
+    "disputed": 0,
+    "oldest_overdue": 8,
+    "open_invoices": 1,
+    "open_total": 868.02,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 1,
+      "PROMISE": 0
+    },
+    "worst_score": 94
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "13931",
+    "disputed": 0,
+    "oldest_overdue": 54,
+    "open_invoices": 1,
+    "open_total": 859.32,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 69
+  },
+  {
+    "broken_promises": 1,
+    "country": "United Kingdom",
+    "cust": "13767",
+    "disputed": 0,
+    "oldest_overdue": 82,
+    "open_invoices": 2,
+    "open_total": 852.3,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 1
+    },
+    "worst_score": 13
+  },
+  {
+    "broken_promises": 0,
+    "country": "United Kingdom",
+    "cust": "14918",
+    "disputed": 0,
+    "oldest_overdue": 74,
+    "open_invoices": 1,
+    "open_total": 844.73,
+    "segments": {
+      "CALL": 0,
+      "ESCALATE": 1,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 39
+  },
+  {
+    "broken_promises": 0,
+    "country": "Germany",
+    "cust": "12705",
+    "disputed": 0,
+    "oldest_overdue": 36,
+    "open_invoices": 1,
+    "open_total": 842.62,
+    "segments": {
+      "CALL": 1,
+      "ESCALATE": 0,
+      "HOLD_DISPUTE": 0,
+      "NUDGE": 0,
+      "PROMISE": 0
+    },
+    "worst_score": 54
+  }
+]
