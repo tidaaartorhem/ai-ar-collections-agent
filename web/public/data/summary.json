@@ -1,0 +1,58 @@
+{
+  "broken_promises": 38,
+  "buckets": {
+    "1-30": {
+      "count": 147,
+      "value": 174577.99
+    },
+    "31-60": {
+      "count": 121,
+      "value": 199130.63
+    },
+    "61-90": {
+      "count": 86,
+      "value": 131849.88
+    }
+  },
+  "disputed": 24,
+  "full_open_book": {
+    "accounts": 916,
+    "invoices": 1243,
+    "value": 764632.54
+  },
+  "graph": "LangGraph StateGraph: age -> score -> segment -> draft -> gate",
+  "human_gate": "every draft pending_human_approval; nothing is sent",
+  "replay_date": "2011-11-28",
+  "segments": {
+    "CALL": {
+      "count": 108,
+      "value": 166717.42
+    },
+    "ESCALATE": {
+      "count": 78,
+      "value": 136793.06
+    },
+    "HOLD_DISPUTE": {
+      "count": 24,
+      "value": 49701.56
+    },
+    "NUDGE": {
+      "count": 84,
+      "value": 84226.15
+    },
+    "PROMISE": {
+      "count": 60,
+      "value": 68120.31
+    }
+  },
+  "terms": "Net 30 (seeded)",
+  "window": [
+    "2011-08-01",
+    "2011-10-28"
+  ],
+  "worked_book": {
+    "accounts": 150,
+    "invoices": 354,
+    "value": 505558.5
+  }
+}
